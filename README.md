@@ -73,10 +73,9 @@ Etapas do processo:
 ## 🔗 Links do Projeto
 
 - 🔗 **Repositório GitHub:**  
-  https://github.com/SEU-USUARIO/SEU-REPOSITORIO
-
+  https://github.com/LucasMartins17/RepositorioAulaHTML.git
 - 🌐 **Site publicado no Vercel:**  
-  https://SEU-SITE.vercel.app
+  https://repositorio-aula-html.vercel.app/
 
 ---
 
