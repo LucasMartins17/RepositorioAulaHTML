@@ -195,10 +195,12 @@ body {
 }
 
 .process-card img {
-    height: 60px;
+    width: 100%;
+    height: 200px;         /* Aumenta a altura */
+    object-fit: cover;     /* Mantém o enquadramento bonito */
+    border-radius: 12px;   /* Deixa mais estiloso */
     margin-bottom: 20px;
 }
-
 .process-card h3 {
     margin-bottom: 10px;
 }
